@@ -1,0 +1,21 @@
+{
+  "name": "qa-test",
+  "author": "",
+  "description": "A test for QA role",
+  "homepage": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "protractor": "^2.5.1",
+    "mysql": "latest"
+  }
+}
